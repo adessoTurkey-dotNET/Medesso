@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Medesso.Sample.Abstraction\Medesso.Sample.Abstraction.csproj" />
+      <ProjectReference Include="..\Medesso.Sample.Core\Medesso.Sample.Core.csproj" />
+      <ProjectReference Include="..\Medesso.Sample.Domain\Medesso.Sample.Domain.csproj" />
+      <ProjectReference Include="..\Medesso.Sample.Repository\Medesso.Sample.Repository.csproj" />
+      <ProjectReference Include="..\Medesso\Medesso.csproj" />
+    </ItemGroup>
+
+</Project>
