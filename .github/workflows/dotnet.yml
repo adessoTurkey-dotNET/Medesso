@@ -2,8 +2,9 @@ name: "Deploy to NuGet"
 
 on:
   push:
-    tags:
-    - 'v*'
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
 
 env:
   PROJECT_PATH: 'src/Medesso/Medesso.csproj'
