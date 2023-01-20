@@ -1,27 +1,28 @@
-# This workflow will build a .NET project
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
-
-name: .NET
+name: "Deploy to NuGet"
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    tags:
+    - 'v*'
+
+env:
+  PROJECT_PATH: 'src/Medesso/Medesso.csproj'
+  PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
+  NUGET_SOURCE_URL: 'https://api.nuget.org/v3/index.json'
 
 jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
+  deploy:
+    name: 'Deploy'
+    runs-on: 'windows-latest'
     steps:
-    - uses: actions/checkout@v3
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v3
+    - name: 'Checkout'
+      uses: actions/checkout@v2
+
+    - name: 'Install dotnet'
+      uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 6.0.x
-        
-        
+        dotnet-version: '6.0.x'
+
     - name: 'Restore packages'
       run: dotnet restore ${{ env.PROJECT_PATH }}
 
