@@ -14,7 +14,7 @@ public static class BuilderExtensions
         RegisterServices(services, assemblies, typeof(IMedessoRequestHandler<,>));
 
         return services;
-    }
+    }  
         
     private static IServiceCollection RegisterServices(this IServiceCollection services, Assembly[] assemblies, Type registerationObj)
     {
