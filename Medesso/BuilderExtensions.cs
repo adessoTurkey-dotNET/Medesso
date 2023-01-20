@@ -15,7 +15,6 @@ public static class BuilderExtensions
 
         return services;
     }  
-         //test
     private static IServiceCollection RegisterServices(this IServiceCollection services, Assembly[] assemblies, Type registerationObj)
     {
         foreach (var assembly in assemblies)
