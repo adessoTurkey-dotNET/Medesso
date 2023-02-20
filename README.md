@@ -36,5 +36,7 @@ builder.Services.AddMedesso(assemblies);
 Distributed under the MIT License. See LICENSE.md for more information.
 
 ## Contact:
-- ###### Umit Akinci - umit__akinci@hotmail.com  ![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25C3%25BCmit-ak%25C4%25B1nc%25C4%25B1-080733120%2F)  ![Twitter URL](https://img.shields.io/twitter/url?label=GitHub&logo=GitHub&url=https%3A%2F%2Fgithub.com%2FUmitAkinci)
-- ###### Devran Canikli - ![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdevrancanikli%2F) ![Twitter URL](https://img.shields.io/twitter/url?label=GitHub&logo=GitHub&url=https%3A%2F%2Fgithub.com%2Fdevrancanikli)
+- ###### Umit Akinci - umit__akinci@hotmail.com -  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%BCmit-ak%C4%B1nc%C4%B1-080733120/) [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmitAkinci)
+
+
+- ###### Devran Canikli - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrancanikli/) [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrancanikli)
