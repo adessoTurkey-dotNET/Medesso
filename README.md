@@ -25,7 +25,7 @@ builder.Services.AddMedesso(assemblies);
 - ##### Mediator implementation in .NET
 - ##### Dependency-free in-process messaging.
 
-## Registers:
+## Registers
 - ##### IMedessoMediator
 - ##### IMedessoQueryHandler
 - ##### IMedessoCommandHandler
