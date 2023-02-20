@@ -17,7 +17,6 @@ dotnet add package Medesso
 # Configuration
 ```sh
 var assemblies = GetAssemblies();
-builder.Services.AddValidatorsFromAssemblies(assemblies);
 builder.Services.AddMedesso(assemblies);
 ```
 ## Features
