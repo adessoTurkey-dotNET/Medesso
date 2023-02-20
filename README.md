@@ -36,5 +36,5 @@ builder.Services.AddMedesso(assemblies);
 Distributed under the MIT License. See LICENSE.md for more information.
 
 ## Contact:
-Umit Akinci - umit__akinci@hotmail.com 
-![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25C3%25BCmit-ak%25C4%25B1nc%25C4%25B1-080733120%2F)  ![Twitter URL](https://img.shields.io/twitter/url?label=GitHub&logo=GitHub&url=https%3A%2F%2Fgithub.com%2FUmitAkinci)
+- ###### Umit Akinci - umit__akinci@hotmail.com  ![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25C3%25BCmit-ak%25C4%25B1nc%25C4%25B1-080733120%2F)  ![Twitter URL](https://img.shields.io/twitter/url?label=GitHub&logo=GitHub&url=https%3A%2F%2Fgithub.com%2FUmitAkinci)
+- ###### Devran Canikli - ![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdevrancanikli%2F) ![Twitter URL](https://img.shields.io/twitter/url?label=GitHub&logo=GitHub&url=https%3A%2F%2Fgithub.com%2Fdevrancanikli)
