@@ -18,6 +18,18 @@ dotnet add package Medesso
 ```sh
 var assemblies = GetAssemblies();
 builder.Services.AddMedesso(assemblies);
+
+
+static Assembly[] GetAssemblies()
+{
+    var path = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
+            
+    return Directory
+        .GetFiles(path, "Medesso.Sample.*.dll", SearchOption.TopDirectoryOnly)
+        .Select(AssemblyLoadContext.Default.LoadFromAssemblyPath)
+        .ToArray();
+}
+
 ```
 ## Features:
 
