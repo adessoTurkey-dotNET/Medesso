@@ -51,4 +51,4 @@ Distributed under the MIT License. See LICENSE.md for more information.
 - ###### Umit Akinci - umit__akinci@hotmail.com -  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%BCmit-ak%C4%B1nc%C4%B1-080733120/) [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmitAkinci)
 
 
-- ###### Devran Canikli - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrancanikli/) [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrancanikli)
+- ###### Devran Canikli - devrancanikli@outlook.com  - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrancanikli/) [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrancanikli)
