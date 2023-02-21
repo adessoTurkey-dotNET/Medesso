@@ -1,7 +1,7 @@
 # Medesso
 ![GitHub issues](https://img.shields.io/github/issues/adessoTurkey-dotNET/Medesso) ![Nuget](https://img.shields.io/nuget/dt/Medesso) ![GitHub contributors](https://img.shields.io/github/contributors/adessoTurkey-dotNET/Medesso)  ![GitHub forks](https://img.shields.io/github/forks/adessoTurkey-dotNET/Medesso) ![GitHub Repo stars](https://img.shields.io/github/stars/adessoTurkey-dotNET/Medesso?color=yellow) ![Nuget](https://img.shields.io/nuget/v/Medesso) ![GitHub](https://img.shields.io/github/license/adessoTurkey-dotNET/Medesso)
 
-##### Medesso is a customized library inspired by Mediatr library. We develop and use it in line with our needs.
+##### Medesso is a customized library inspired by MediatR library. We develop and use it in line with our needs.
 
 ### How To Install
 
